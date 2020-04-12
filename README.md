@@ -19,4 +19,4 @@
 
 ## Device Picture
 
-![10orG](http://https://www.suggestphone.com/assets/tenor-10or-g.png "10orG")
+![10orG](https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-vhnksm2lfrvaclbs7ns5p8v922-20171018165241.Medi.jpeg "10orG")
